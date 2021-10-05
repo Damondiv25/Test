@@ -1,0 +1,15 @@
+* {
+margin: 0;
+}
+.appheader {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+}
+.appTime{
+        display: flex;
+}
+body{
+        background-color: #f5f6fa;
+}
